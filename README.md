@@ -2,9 +2,9 @@
 
 Non-linear Programming
 
-Simplex Method\\
-Chapter 6. (p.301) Non-Linear Programming II. Unconstrained Optimization
-6.7 Simplex Method
+Simplex Method\
+Chapter 6. (p.301) Non-Linear Programming II. Unconstrained Optimization\
+6.7 Simplex Method\
 
 Engineering Optimization - Theory and Practice, 4th Edition
 
