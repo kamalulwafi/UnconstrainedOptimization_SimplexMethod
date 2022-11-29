@@ -3,9 +3,13 @@
 Non-linear Programming
 
 Simplex Method
+
 Chapter 6. (p.301) Non-Linear Programming II. Unconstrained Optimization
+
 6.7 Simplex Method
+
 Engineering Optimization - Theory and Practice, 4th Edition
+
 Singiresu S. Rao
 
  The geometric figure formed by a set of (n+1) points in an n-dimensional
